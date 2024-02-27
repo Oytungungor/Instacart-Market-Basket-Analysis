@@ -62,4 +62,3 @@ The consistency across training, validation, and test scores suggests the absenc
 Ultimately, based on the comprehensive evaluation of performance metrics, the XG Boost algorithm was selected as the most effective model. This model demonstrated superior accuracy in predicting future purchasing preferences of Instacart users.
 
 ** too reach whole project, please visit my profile.
-** 
